@@ -1,0 +1,378 @@
+ .nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+   }
+   .logo{
+       font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 36px;
+   line-height: 44px;
+   /* identical to box height */
+   
+   
+   /* Gradient */
+   
+   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   background-clip: text;
+   text-fill-color: transparent;
+   cursor: pointer;
+   }
+   .gen{
+       
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 36px;
+   line-height: 44px;
+   /* identical to box height */
+   display: flex;
+   }
+   .HOME{
+       color: BC61F3;
+       /* Active */
+   
+   
+   /* Auto layout */
+   
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   padding: 0px;
+   gap: 2px;
+   
+   width: 60px;
+   height: 31px;
+   
+   
+   /* Inside auto layout */
+   
+   flex: none;
+   order: 0;
+   flex-grow: 0;
+   }
+   .lists{
+       display: flex;
+       justify-content: center;
+       gap: 20px;
+       list-style: none;
+       color: antiquewhite;
+       cursor: pointer;
+   
+   }
+   .btn{
+   flex-direction: row;
+   align-items: flex-start;
+   padding: 15px 43px;
+   gap: 10px;
+   
+   width: 47px;
+   height: 13px;
+   
+   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+   display: flex;
+   justify-content: end;   
+   margin-bottom: -200px;
+   cursor: pointer;
+   }
+   .parent{
+       display: flex;
+       justify-content: end;
+       
+   }
+   .img{
+       position: absolute;
+width: 806px;
+height: 239px;
+left: -86px;
+top: 2px;
+   }
+   .sin{
+       color: #5C43F6
+;
+   }
+   .title{
+       padding: 50px;
+   }
+.parent2{
+   display: flex;
+   padding: 40px;
+
+}
+.con{
+   width: 468px;
+height: 125px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 183%;
+/* or 35px */
+
+letter-spacing: -0.02em;
+
+color: #F0F0F0;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 100px;
+}
+.get{
+   margin-left: 90px;
+}
+.parent3{
+   display: flex;
+   width: 20px;
+   gap: 30px;
+}
+.img2{
+   margin-bottom: 2000px;
+   margin-top: -550px;
+   margin-left: 600px;
+}
+.listed{
+   display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 11px;
+
+position: absolute;
+left: 130px;
+top: 1204px;
+margin-top: -200px;
+
+}
+.top{
+   width: 591px;
+height: 68px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 56px;
+line-height: 121%;
+/* identical to box height, or 68px */
+
+text-align: center;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: -1610px;
+margin-left: 350px;
+}
+.pi{
+   padding: 100px;
+}
+.new{
+   margin-top: -150px;
+   margin-left: 125px;
+}
+.as{
+   margin-top: -431px;
+   padding-left: 500px;
+}
+.df{
+   margin-top: -90px;
+   margin-left: 130px;
+   padding-left: 395px;
+   padding-top: 37px;
+}
+.jk{
+   margin-top: -431px;
+   padding-left: 900px;
+}
+.lm{
+   margin-top: -90px;
+   margin-left: 130px;
+   padding-left: 795px;
+   padding-top: 37px;
+}
+.dot{
+   padding-left: 580px;
+   padding-top: 60px;
+}
+.topcreater{
+padding-top: 150px;
+   display: flex;
+   justify-content: center;
+}
+.text{
+   width: 678px;
+height: 105px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 183%;
+/* or 35px */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #F0F0F0;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-left: 270px;
+padding-top: 50px;
+}
+.khali{
+   background: #262431;
+   width: 300px;
+   height: 200px;
+}
+.parent7{
+   display: flex;
+   gap: 20px;
+   padding: 50px;
+}
+.parent8{
+   display: flex;
+   justify-content: space-between;
+   /* padding-top: -2900px; */
+   margin-top: -300px;
+}
+.con1{
+   padding-left: 70px;
+   padding-top: 10px;
+}
+.con3{
+   padding-top: 10px;
+}
+.con2{
+   padding-top: 10px;
+}
+.con4{
+   padding-right: 65px;
+   padding-top: 11px;
+}
+.tri{
+ padding-left: 90px;
+ padding-top: 50px;
+}
+.right{
+display: flex;
+padding-left: 710px;
+margin-top: -450px;
+}
+.title4{
+   display: flex;
+   justify-content: center;
+}
+.parent9{
+   display: flex;
+   padding: 110px;
+}
+.topfetter{
+   padding-left: 130px;
+}
+.copy{
+  display: flex;
+  justify-content: center;
+  padding-top: 90px;
+}
+body{
+    background: black;
+}
+.nav{
+ border: white;
+}
+.logo{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Gradient */
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.gen{
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+}
+.HOME{
+    color: BC61F3;
+    /* Active */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 60px;
+height: 31px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.lists{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    color: antiquewhite;
+
+}
+.btn{
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 43px;
+gap: 10px;
+
+width: 47px;
+height: 13px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+display: flex;
+justify-content: end;   
+margin-bottom: -200px;
+}
+.parent{
+    display: flex;
+    justify-content: end;
+    
+}
